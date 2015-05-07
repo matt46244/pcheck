@@ -1,0 +1,5 @@
+config.rb
+vendor/
+bin/
+*.swp
+.bundle

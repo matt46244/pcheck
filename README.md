@@ -1,2 +1,4 @@
-# pricechecker
-Price checker
+#pcheck
+A personalized price checker. 
+
+
